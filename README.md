@@ -26,6 +26,8 @@
 
 ## Description
 
+Project not yet finished put online to help a friend.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
